@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aka-alvaroso
-- 👀 I’m interested in cybersecurituy/web-development
+- 👀 I’m interested in cybersecurity/web-development
 - 🌱 I’m currently learning Web Aplication Development
 
 <!---
